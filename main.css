@@ -1,0 +1,29 @@
+body{
+	background:#999;
+	font-family: arial;
+}
+h1, h2, li {
+	color:#555;
+}
+nav ul li{
+	display: inline-block;
+	list-style-type: none; 
+}
+
+a{
+	color: green;
+}
+
+p{
+	background: red;
+	color: white;
+	padding: 0, 10px;
+}
+.second {
+	background: yellow;
+	color: green;
+}
+.col {
+	background #999
+	float: left;
+}
